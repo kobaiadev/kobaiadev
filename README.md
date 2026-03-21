@@ -15,7 +15,7 @@
 
 # 👨‍💼 Sobre Mim
 
-Profissional com mais de **15 anos de experiência** no serviço público do Estado do Rio de Janeiro (desde 2009). Minha carreira é pautada pela convergência entre a **Segurança Operacional** e a **Inteligência de Dados**.
+Profissional com mais de **17 anos de experiência** no serviço público do Estado do Rio de Janeiro (desde 2009). Minha carreira é pautada pela convergência entre a **Segurança Operacional** e a **Inteligência de Dados**.
 
 * **Foco Estratégico:** Prevenção de Perdas no Varejo e Gestão de Riscos Corporativos.
 * **Diferencial Técnico:** Aplicação de BPM (Business Process Management) para otimização de fluxos de segurança e auditoria.
@@ -46,9 +46,22 @@ Profissional com mais de **15 anos de experiência** no serviço público do Est
 | Instituição | Curso | Status |
 | :--- | :--- | :--- |
 | **UFF** | Segunrança Pública | Graduado |
-| **Estácio RJ** | Análise de Sistemas / Eng. de Software | Em andamento |
+| **Estácio RJ** | Análise de Sistemas / Eng. de Software |
 | **Anhanguera** | Pós-graduação em Eng. de Dados & IA | Especialista |
-| **Univ. São Marcos** | MBA em BPM | Concluído (2025) |
+| **Univ. São Marcos** | MBA em BPM | 
+| **FCE - Faculdade Campos Elíseos** |  Pós-graduação Lato Sensu, Direito Administrativo |
+
+# 🎓 Formação & Certificações
+
+**| Licenças e certificados |**
+| **hashtag treinamentos** |  Power Bi Completo Formação voltada à análise e visualização de dados com Power BI, abrangendo modelagem de dados, criação de dashboards interativos, utilização de DAX, tratamento de dados |
+| **Fundação Getulio Vargas** |  AUTOCONHECIMENTO: A BASE PARA INTELIGÊNCIA EMOCIONAL E RESILIÊNCIA |
+| **Ka Solution** |  Computação em nuvem / AWS Discobery Day |
+| **Estácio** |  Seguranca da Informação: Identificação de ataques Cybernéticos|
+| **WR EDUCACIONAL** |  Gestão e liderança |
+| **Udemy** |  Gestao de Riscos - Certificação ISO 31000 |
+
+
 
 > [!TIP]
 > **Destaque Técnico:** Especialista em Python e Power BI aplicados à análise comportamental e detecção de fraudes.
