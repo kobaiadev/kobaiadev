@@ -53,6 +53,7 @@ Profissional com mais de **17 anos de experiência** no serviço público do Est
 
 # 🎓 Licenças e certificados
 
+| Instituição | Curso | Status |
 | :--- | :--- | :--- |
 | **hashtag treinamentos** |  Power Bi Completo Formação voltada à análise e visualização de dados com Power BI, abrangendo modelagem de dados, criação de dashboards interativos, utilização de DAX, tratamento de dados |
 | **Fundação Getulio Vargas** |  AUTOCONHECIMENTO: A BASE PARA INTELIGÊNCIA EMOCIONAL E RESILIÊNCIA |
