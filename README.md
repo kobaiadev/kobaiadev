@@ -17,7 +17,7 @@
 
 Profissional com mais de **17 anos de experiência** no serviço público do Estado do Rio de Janeiro (desde 2009). Minha carreira é pautada pela convergência entre a **Segurança Operacional** e a **Inteligência de Dados**.
 
-* **Foco Estratégico:** Seguramça Corporativa e Gestão de Riscos Corporativos com Analise de Dados.
+* **Foco Estratégico:** Segurança Corporativa e Gestão de Riscos Corporativos com Analise de Dados.
 * **Diferencial Técnico:** Aplicação de BPM (Business Process Management) para otimização de fluxos de segurança e auditoria.
 * **Propósito:** Transformar grandes volumes de dados em inteligência acionável e resultados reais para o negócio.
 
