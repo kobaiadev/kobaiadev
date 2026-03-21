@@ -46,10 +46,10 @@ Profissional com mais de **17 anos de experiência** no serviço público do Est
 | Instituição | Curso | Status |
 | :--- | :--- | :--- |
 | **UFF** | Segunrança Pública | Graduado |
-| **Estácio RJ** | Análise de Sistemas / Eng. de Software |
-| **Anhanguera** | Pós-graduação em Eng. de Dados & IA | Especialista |
-| **Univ. São Marcos** | MBA em BPM | 
-| **FCE - Faculdade Campos Elíseos** |  Pós-graduação Lato Sensu, Direito Administrativo |
+| **Estácio RJ** | Análise de Sistemas / Eng. de Software | Tecnólogo |
+| **Anhanguera** | Pós-graduação em Eng. de Dados & IA | Especialista | Analista |
+| **Univ. São Marcos** | MBA em BPM | MBA |
+| **FCE - Faculdade Campos Elíseos** |  Pós-graduação Lato Sensu, Direito Administrativo |Pós |
 
 # 🎓 Licenças e certificados
 
