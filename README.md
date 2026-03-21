@@ -51,9 +51,8 @@ Profissional com mais de **17 anos de experiência** no serviço público do Est
 | **Univ. São Marcos** | MBA em BPM | 
 | **FCE - Faculdade Campos Elíseos** |  Pós-graduação Lato Sensu, Direito Administrativo |
 
-# 🎓 Formação & Certificações
+# 🎓 Licenças e certificados
 
-**| Licenças e certificados |**
 | :--- | :--- | :--- |
 | **hashtag treinamentos** |  Power Bi Completo Formação voltada à análise e visualização de dados com Power BI, abrangendo modelagem de dados, criação de dashboards interativos, utilização de DAX, tratamento de dados |
 | **Fundação Getulio Vargas** |  AUTOCONHECIMENTO: A BASE PARA INTELIGÊNCIA EMOCIONAL E RESILIÊNCIA |
