@@ -17,9 +17,9 @@
 
 Profissional com mais de **17 anos de experiência** no serviço público do Estado do Rio de Janeiro (desde 2009). Minha carreira é pautada pela convergência entre a **Segurança Operacional** e a **Inteligência de Dados**.
 
-* **Foco Estratégico:** Segurança Corporativa e Gestão de Riscos Corporativos com Analise de Dados.
-* **Diferencial Técnico:** Aplicação de BPM (Business Process Management) para otimização de fluxos de segurança e auditoria.
-* **Propósito:** Transformar grandes volumes de dados em inteligência acionável e resultados reais para o negócio.
+- **Foco Estratégico:** Segurança Corporativa e Gestão de Riscos Corporativos com Análise de Dados.
+- **Diferencial Técnico:** Aplicação de BPM (Business Process Management) para otimização de fluxos de segurança e auditoria.
+- **Propósito:** Transformar grandes volumes de dados em inteligência acionável e resultados reais para o negócio.
 
 ---
 
@@ -30,9 +30,9 @@ Profissional com mais de **17 anos de experiência** no serviço público do Est
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,powershell,github" />
 </p>
 
-* **Data Science:** Pandas, NumPy, ETL e Automação com Python.
-* **Business Intelligence:** Power BI (DAX avançado, modelagem de dados e dashboards para Varejo).
-* **Processos:** BPMN (Modelagem no Bizagi) e análise de incidentes.
+- **Data Science:** Pandas, NumPy, ETL e Automação com Python.
+- **Business Intelligence:** Power BI (DAX avançado, modelagem de dados e dashboards para Varejo).
+- **Processos:** BPMN (Modelagem no Bizagi) e análise de incidentes.
 
 ### 🔹 Desenvolvimento & Ferramentas
 <p>
@@ -41,28 +41,28 @@ Profissional com mais de **17 anos de experiência** no serviço público do Est
 
 ---
 
-# 🎓 Formação & Certificações
+# 🎓 Formação Acadêmica
 
 | Instituição | Curso | Status |
 | :--- | :--- | :--- |
-| **UFF** | Segunrança Pública | Graduado |
-| **Estácio RJ** | Análise de Sistemas / Eng. de Software | Tecnólogo |
-| **Anhanguera** | Pós-graduação em Eng. de Dados & IA | Especialista | Analista |
+| **UFF** | Segurança Pública | Graduado |
+| **Estácio RJ** | Análise de Sistemas / Eng. de Software | Tecnólogo / Graduação |
+| **Anhanguera** | Pós-graduação em Eng. de Dados & IA | Especialista |
 | **Univ. São Marcos** | MBA em BPM | MBA |
-| **FCE - Faculdade Campos Elíseos** |  Pós-graduação Lato Sensu, Direito Administrativo |Pós |
+| **FCE** | Pós-graduação Lato Sensu em Direito Administrativo | Pós-graduado |
 
-# 🎓 Licenças e certificados
+---
 
-| Instituição | Curso | Status |
-| :--- | :--- | :--- |
-| **hashtag treinamentos** |  Power Bi Completo Formação voltada à análise e visualização de dados com Power BI, abrangendo modelagem de dados, criação de dashboards interativos, utilização de DAX, tratamento de dados |
-| **Fundação Getulio Vargas** |  AUTOCONHECIMENTO: A BASE PARA INTELIGÊNCIA EMOCIONAL E RESILIÊNCIA |
-| **Ka Solution** |  Computação em nuvem / AWS Discobery Day |
-| **Estácio** |  Seguranca da Informação: Identificação de ataques Cybernéticos|
-| **WR EDUCACIONAL** |  Gestão e liderança |
-| **Udemy** |  Gestao de Riscos - Certificação ISO 31000 |
+# 📜 Licenças e Certificados
 
-
+| Instituição | Curso |
+| :--- | :--- |
+| **Hashtag Treinamentos** | Power BI Completo: Modelagem, Dashboards interativos, DAX e Tratamento de dados. |
+| **Fundação Getulio Vargas** | Autoconhecimento: A Base para Inteligência Emocional e Resiliência. |
+| **Ka Solution** | Computação em Nuvem / AWS Discovery Day. |
+| **Estácio** | Segurança da Informação: Identificação de Ataques Cibernéticos. |
+| **WR Educacional** | Gestão e Liderança. |
+| **Udemy** | Gestão de Riscos - Certificação ISO 31000. |
 
 > [!TIP]
 > **Destaque Técnico:** Especialista em Python e Power BI aplicados à análise comportamental e detecção de fraudes.
